@@ -1,0 +1,16 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+.Main {
+    height: 500px; 
+    background: linear-gradient( to left, #1687ED, #14375A );
+    /*background-image: url("http://blogfiles.naver.net/20160315_43/eogk8709_1458016862820vSBzz_JPEG/33.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+}
+.sub_title {
+    margin-top: 200px;
+    color:white;
+}

@@ -1,0 +1,5 @@
+/weather/seoul https://today-article.herokuapp.com/weather/seoul
+/korea/infect https://today-article.herokuapp.com/korea/infect
+/naver/ranking https://today-article.herokuapp.com/naver/ranking
+/naver/news search=:search https://today-article.herokuapp.com/naver/news?search=:search 301
+/*   /index.html   200
